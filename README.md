@@ -32,7 +32,7 @@
 
 ## 🖥 Demo Preview
 
-> Screenshots or Loom video link can go here (optional)
+![Quick demo of MediTrack](demo.gif)
 
 ## 🚀 Getting Started
 
